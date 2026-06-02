@@ -69,16 +69,16 @@ pip install numpy prettytable
 
 | Friend | Settlement              |
 | ------ | ----------------------- |
-| Thariq | Should Receive ₹6005.00 |
-| Arsath | Owes ₹685.00            |
-| Tj     | Owes ₹4735.00           |
-| Arsh   | Owes ₹585.00            |
+| Thariq | Should Receive ₹950.00  |
+| Arsath | Owes ₹50.00             |
+| Tj     | Owes ₹850.00            |
+| Arsh   | Owes ₹50.00             |
 
 ### Suggested Transactions
 
-* Arsath should pay ₹685.00 to Thariq
-* Tj should pay ₹4735.00 to Thariq
-* Arsh should pay ₹585.00 to Thariq
+* Arsath should pay ₹50 to Thariq
+* Tj should pay ₹850 to Thariq
+* Arsh should pay ₹50 to Thariq
 
 ---
 
